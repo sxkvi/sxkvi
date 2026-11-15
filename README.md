@@ -53,6 +53,11 @@ Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
 </details>
 
+### 🎲 Projets perso
+
+- 🏢 **[Crous ou prison](https://crousouprison.com)** : un quiz photo, logement étudiant ou cellule de prison ? 167 photos à départager. Plus de 350 000 visites en un an, relayé par plusieurs YouTubeurs.
+- 🎮 **[Yochamida](https://yochamida-mods.com)** : une plateforme pour modder, réparer et personnaliser sa console (Switch, PS5, PS Vita, 3DS…), que j'ai conçue et développée de A à Z : configurateur, paiement Stripe, étiquettes d'envoi et points relais, parrainage, relance de panier, back-office.
+
 ### 📊 Activité
 
 <picture>
