@@ -14,9 +14,9 @@
       <stop offset="1" stop-color="#FFC93C"/>
     </linearGradient>
     <clipPath id="footer-wave">
-      <path class="front" d="M0 54Q150 18 300 54T600 54T900 54T1200 54T1500 54T1800 54T2100 54T2400 54V110H0Z"/>
+      <path class="front" d="M0 62Q150 34 300 62T600 62T900 62T1200 62T1500 62T1800 62T2100 62T2400 62V110H0Z"/>
     </clipPath>
   </defs>
-  <path class="back" d="M0 34Q300 2 600 34T1200 34T1800 34T2400 34V110H0Z" fill="#FFF3C4"/>
+  <path class="back" d="M0 30Q300 2 600 30T1200 30T1800 30T2400 30V110H0Z" fill="#FFF3C4"/>
   <rect width="1200" height="110" fill="url(#footer-g)" clip-path="url(#footer-wave)"/>
 </svg>

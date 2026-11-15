@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Simon Vieira, CEO @ Klavo, agence web à Paris">
   <style>
-    /* vagues 2400 px de large, période qui divise 1200 : la translation de 1200 boucle sans saut */
+    /* vagues 2400 px de large, période qui divise 1200 : la translation de 1200 boucle sans saut ;
+       la vague avant reste toujours au-dessus de l'arrière (sinon angles au croisement) */
     @keyframes flow { to { transform: translateX(-1200px); } }
     @keyframes flowBack { from { transform: translateX(-1200px); } to { transform: translateX(0); } }
     @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
@@ -17,10 +18,10 @@
       <stop offset="1" stop-color="#FFF3C4"/>
     </linearGradient>
     <clipPath id="banner-wave">
-      <path class="front" d="M0 0H2400V206Q2250 166 2100 206T1800 206T1500 206T1200 206T900 206T600 206T300 206T0 206Z"/>
+      <path class="front" d="M0 0H2400V190Q2250 158 2100 190T1800 190T1500 190T1200 190T900 190T600 190T300 190T0 190Z"/>
     </clipPath>
   </defs>
-  <path class="back" d="M0 0H2400V222Q2100 186 1800 222T1200 222T600 222T0 222Z" fill="#FFF3C4"/>
+  <path class="back" d="M0 0H2400V230Q2100 202 1800 230T1200 230T600 230T0 230Z" fill="#FFF3C4"/>
   <rect width="1200" height="260" fill="url(#banner-g)" clip-path="url(#banner-wave)"/>
   <text class="name" x="600" y="112" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="-2" fill="#412715">Simon Vieira</text>
   <text class="desc" x="600" y="158" text-anchor="middle" font-size="26" font-weight="500" fill="#5C3D1E">CEO @ Klavo · agence web à Paris</text>
