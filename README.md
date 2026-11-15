@@ -3,8 +3,8 @@
 <img src="assets/banner.svg" width="100%" alt="Simon Vieira, CEO @ Klavo, agence web à Paris" />
 
 <a href="https://klavo.fr"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Design+premium%2C+code+propre" />
-  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=A87400&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Design+premium%2C+code+propre" alt="Sites internet livrés en 7 jours · Score Google 95+ · Design premium, code propre" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Des+sites+qui+ram%C3%A8nent+des+clients" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=A87400&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Des+sites+qui+ram%C3%A8nent+des+clients" alt="Sites internet livrés en 7 jours · Score Google 95+ · Des sites qui ramènent des clients" />
 </picture></a>
 
 <a href="https://klavo.fr"><img src="https://img.shields.io/badge/klavo.fr-FFD23F?style=flat&logo=googlechrome&logoColor=412715" alt="klavo.fr" /></a>
