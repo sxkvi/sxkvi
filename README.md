@@ -24,6 +24,7 @@ Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
 ### 🔭 En ce moment
 
+- 🎓 Étudiant en BTS SIO option SISR : **je cherche un stage d'un mois en cybersécurité ou en systèmes et réseaux** ([me contacter](mailto:s.vieira@klavo.fr))
 - 🔨 Je travaille sur la nouvelle version de [klavo.fr](https://klavo.fr)
 - 🏗️ Sites vitrines et e-commerce pour des clients d'Île-de-France
 - 🤖 J'intègre l'IA au workflow de l'agence pour livrer plus vite, sans rien lâcher sur la qualité
