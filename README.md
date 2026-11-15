@@ -12,6 +12,8 @@
 
 ## Salut 👋, moi c'est Simon
 
+> *Don't be a programmer, Be a problem solver.*
+
 Je dirige **[Klavo](https://klavo.fr)**, une agence web à Paris. On crée des sites pour les commerces, les indépendants et les PME d'Île-de-France : maquette en 1 à 2 jours, mise en ligne en 7 jours, score Google au-dessus de 90.
 
 Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
