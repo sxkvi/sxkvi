@@ -67,7 +67,7 @@ Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,vite,tailwind,nodejs,express,py,bash,md,npm,git,github,vscode,cloudflare,netlify,discord,linux,arch,apple,ps,ai,pr,ae&perline=14" alt="HTML, CSS, JavaScript, TypeScript, React, Astro, Vite, Tailwind CSS, Node.js, Express, Python, Bash, Markdown, npm, Git, GitHub, VS Code, Cloudflare, Netlify, Discord, Linux, Arch Linux, macOS, Photoshop, Illustrator, Premiere Pro, After Effects" />
+<img src="assets/stack.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Astro, Vite, Tailwind CSS, Node.js, Express, Python, Bash, Markdown, npm, Git, GitHub, VS Code, Cloudflare, Netlify, Discord, Linux, Arch Linux, macOS, Photoshop, Premiere Pro, InDesign" />
 
 ### 📫 Un projet de site ?
 
