@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFC93C,50:FFE07A,100:FFF3C4&text=Simon%20Vieira&fontColor=412715&fontSize=56&fontAlignY=36&desc=CEO%20%40%20Klavo%20%C2%B7%20agence%20web%20%C3%A0%20Paris&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Simon Vieira, CEO de Klavo" />
+<img src="assets/banner.svg" width="100%" alt="Simon Vieira, CEO @ Klavo, agence web à Paris" />
 
 <a href="https://klavo.fr"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+90%2B;Design+premium%2C+code+propre" />
@@ -55,7 +55,10 @@ Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
 ### 📊 Activité
 
-<img src="assets/contributions.svg" width="100%" alt="Contributions GitHub de Simon sur les 12 derniers mois" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+  <img src="assets/contributions-light.svg" width="100%" alt="Contributions GitHub de Simon sur les 12 derniers mois" />
+</picture>
 
 ### 🛠️ Stack
 
@@ -65,4 +68,4 @@ Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
 Écris-moi à **[contact@klavo.fr](mailto:contact@klavo.fr)** ou passe sur **[klavo.fr](https://klavo.fr)**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFF3C4,50:FFE07A,100:FFC93C&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
