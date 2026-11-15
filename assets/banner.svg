@@ -1,13 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Simon Vieira, CEO @ Klavo, agence web à Paris">
+  <style>
+    /* vagues 2400 px de large, période qui divise 1200 : la translation de 1200 boucle sans saut */
+    @keyframes flow { to { transform: translateX(-1200px); } }
+    @keyframes flowBack { from { transform: translateX(-1200px); } to { transform: translateX(0); } }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    .front { animation: flow 14s linear infinite; }
+    .back { animation: flowBack 22s linear infinite; }
+    .name { animation: rise 1.2s ease-out both; }
+    .desc { animation: rise 1.2s 0.25s ease-out both; }
+    @media (prefers-reduced-motion: reduce) { .front, .back, .name, .desc { animation: none; } }
+  </style>
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
+    <linearGradient id="banner-g" x1="0" x2="1">
       <stop offset="0" stop-color="#FFC93C"/>
       <stop offset="0.5" stop-color="#FFE07A"/>
       <stop offset="1" stop-color="#FFF3C4"/>
     </linearGradient>
+    <clipPath id="banner-wave">
+      <path class="front" d="M0 0H2400V206Q2250 166 2100 206T1800 206T1500 206T1200 206T900 206T600 206T300 206T0 206Z"/>
+    </clipPath>
   </defs>
-  <path d="M0 0H1200V222C1100 250 1000 200 880 218S640 258 520 232 260 196 140 222 30 246 0 232Z" fill="#FFF3C4"/>
-  <path d="M0 0H1200V200C1110 232 1000 182 880 198S640 246 520 214 260 176 140 204 30 228 0 214Z" fill="url(#g)"/>
-  <text x="600" y="118" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="-2" fill="#412715">Simon Vieira</text>
-  <text x="600" y="164" text-anchor="middle" font-size="26" font-weight="500" fill="#5C3D1E">CEO @ Klavo · agence web à Paris</text>
+  <path class="back" d="M0 0H2400V222Q2100 186 1800 222T1200 222T600 222T0 222Z" fill="#FFF3C4"/>
+  <rect width="1200" height="260" fill="url(#banner-g)" clip-path="url(#banner-wave)"/>
+  <text class="name" x="600" y="112" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="-2" fill="#412715">Simon Vieira</text>
+  <text class="desc" x="600" y="158" text-anchor="middle" font-size="26" font-weight="500" fill="#5C3D1E">CEO @ Klavo · agence web à Paris</text>
 </svg>
