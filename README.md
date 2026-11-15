@@ -3,8 +3,8 @@
 <img src="assets/banner.svg" width="100%" alt="Simon Vieira, CEO @ Klavo, agence web à Paris" />
 
 <a href="https://klavo.fr"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+90%2B;Design+premium%2C+code+propre" />
-  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=A87400&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+90%2B;Design+premium%2C+code+propre" alt="Sites internet livrés en 7 jours · Score Google 90+ · Design premium, code propre" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Design+premium%2C+code+propre" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=3000&pause=1000&color=A87400&center=true&vCenter=true&width=520&lines=Sites+internet+livr%C3%A9s+en+7+jours;Score+Google+95%2B;Design+premium%2C+code+propre" alt="Sites internet livrés en 7 jours · Score Google 95+ · Design premium, code propre" />
 </picture></a>
 
 <a href="https://klavo.fr"><img src="https://img.shields.io/badge/klavo.fr-FFD23F?style=flat&logo=googlechrome&logoColor=412715" alt="klavo.fr" /></a>
@@ -18,7 +18,7 @@
 
 > *Don't be a programmer, Be a problem solver.*
 
-Je dirige **[Klavo](https://klavo.fr)**, une agence web à Paris. On crée des sites pour les commerces, les indépendants et les PME d'Île-de-France : maquette en 1 à 2 jours, mise en ligne en 7 jours, score Google au-dessus de 90.
+Je dirige **[Klavo](https://klavo.fr)**, une agence web à Paris. On crée des sites pour les commerces, les indépendants et les PME d'Île-de-France : maquette en 1 à 2 jours, mise en ligne en 7 jours, score Google au-dessus de 95.
 
 Ce qui m'intéresse : des sites rapides et soignés, qui font venir des clients.
 
