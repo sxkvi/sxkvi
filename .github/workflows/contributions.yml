@@ -1,0 +1,30 @@
+name: Carte contributions
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/contributions.py", ".github/workflows/contributions.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  carte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Calendrier GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api graphql -f query='{user(login:"${{ github.repository_owner }}"){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount contributionLevel}}}}}}' > /tmp/calendar.json
+      - run: python3 .github/scripts/contributions.py /tmp/calendar.json assets/contributions.svg
+      - name: Commit si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git diff --cached --quiet || { git commit -m "Carte contributions à jour"; git push; }
