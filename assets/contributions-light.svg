@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="868" height="355" viewBox="0 0 868 355" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="408 contributions sur les 12 derniers mois">
+<svg xmlns="http://www.w3.org/2000/svg" width="868" height="355" viewBox="0 0 868 355" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="422 contributions sur les 12 derniers mois">
 <rect x="0.5" y="0.5" width="867" height="354" rx="14" fill="#FFF8E1" stroke="#F2DFA0"/>
 <text x="36" y="54" font-size="13" font-weight="700" letter-spacing="1.6" fill="#6B5200">CONTRIBUTIONS · 12 DERNIERS MOIS</text>
 <rect x="32" y="104" width="166" height="30" rx="4" fill="#FFD23F"/>
-<text x="36" y="132" font-size="88" font-weight="800" letter-spacing="-2" fill="#2B1A0C">408</text>
+<text x="36" y="132" font-size="88" font-weight="800" letter-spacing="-2" fill="#2B1A0C">422</text>
 <text x="210" y="130" font-size="24" font-weight="600" fill="#2B1A0C">contributions</text>
-<text x="502" y="102" text-anchor="middle" font-size="30" font-weight="800" fill="#2B1A0C">22 j</text>
+<text x="502" y="102" text-anchor="middle" font-size="30" font-weight="800" fill="#2B1A0C">23 j</text>
 <text x="502" y="126" text-anchor="middle" font-size="12" fill="#6B5200">Série actuelle</text>
-<text x="637" y="102" text-anchor="middle" font-size="30" font-weight="800" fill="#2B1A0C">22 j</text>
+<text x="637" y="102" text-anchor="middle" font-size="30" font-weight="800" fill="#2B1A0C">23 j</text>
 <text x="637" y="126" text-anchor="middle" font-size="12" fill="#6B5200">Meilleure série</text>
 <text x="772" y="102" text-anchor="middle" font-size="30" font-weight="800" fill="#2B1A0C">104</text>
 <text x="772" y="126" text-anchor="middle" font-size="12" fill="#6B5200">Record en un jour</text>
@@ -391,7 +391,7 @@
 <rect x="816" y="211" width="12" height="12" rx="2.5" fill="#F6BE12"><title>14 le 16 nov. 2026</title></rect>
 <rect x="816" y="226" width="12" height="12" rx="2.5" fill="#F6BE12"><title>15 le 17 nov. 2026</title></rect>
 <rect x="816" y="241" width="12" height="12" rx="2.5" fill="#C88D00"><title>25 le 18 nov. 2026</title></rect>
-<rect x="816" y="256" width="12" height="12" rx="2.5" fill="#F3EBD3"><title>0 le 19 nov. 2026</title></rect>
+<rect x="816" y="256" width="12" height="12" rx="2.5" fill="#F6BE12"><title>14 le 19 nov. 2026</title></rect>
 <text x="36" y="335" font-size="11" fill="#6B5200">Mis à jour le 19 nov. 2026</text>
 <text x="715" y="335" text-anchor="end" font-size="11" fill="#6B5200">Moins</text>
 <rect x="723" y="325" width="12" height="12" rx="2.5" fill="#F3EBD3"/>
