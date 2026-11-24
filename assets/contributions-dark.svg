@@ -389,7 +389,8 @@
 <rect x="801" y="286" width="12" height="12" rx="2.5" fill="#D4A20B"><title>16 le 21 nov. 2026</title></rect>
 <rect x="816" y="196" width="12" height="12" rx="2.5" fill="#FFD23F"><title>24 le 22 nov. 2026</title></rect>
 <rect x="816" y="211" width="12" height="12" rx="2.5" fill="#D4A20B"><title>14 le 23 nov. 2026</title></rect>
-<text x="36" y="335" font-size="11" fill="#B8A77A">Mis à jour le 23 nov. 2026</text>
+<rect x="816" y="226" width="12" height="12" rx="2.5" fill="#2A2F37"><title>0 le 24 nov. 2026</title></rect>
+<text x="36" y="335" font-size="11" fill="#B8A77A">Mis à jour le 24 nov. 2026</text>
 <text x="715" y="335" text-anchor="end" font-size="11" fill="#B8A77A">Moins</text>
 <rect x="723" y="325" width="12" height="12" rx="2.5" fill="#2A2F37"/>
 <rect x="738" y="325" width="12" height="12" rx="2.5" fill="#4D3D0B"/>
